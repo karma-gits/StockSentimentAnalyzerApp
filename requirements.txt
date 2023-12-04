@@ -1,0 +1,8 @@
+beautifulsoup4==4.11.2
+pandas
+vaderSentiment==3.3.2
+matplotlib==3.6.3
+yfinance==0.2.31
+NRCLex==3.0.0
+wordcloud
+mplfinance==0.12.9b7
